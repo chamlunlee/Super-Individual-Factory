@@ -22,6 +22,9 @@
 .DS_Store
 *.pem
 
+# Cursor local config / skills
+.cursor/
+
 # local studio project data
 /data/projects/*
 !/data/projects/.gitkeep
