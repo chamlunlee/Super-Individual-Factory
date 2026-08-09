@@ -40,9 +40,7 @@
 
 > 网站即将上线，敬请期待。
 
-<p align="center">
-  <img src="assets/media-insight-demo.png" alt="自媒体内容深度分析项目示例" width="720" />
-</p>
+示例预览：[内容工作室.pdf](assets/内容工作室.pdf)
 
 ---
 
